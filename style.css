@@ -83,7 +83,7 @@ body {
     padding: 30px;
     border-radius: 4px;
     box-shadow: 0 10px 30px rgba(0,0,0,.4);
-    /*width: 480px;*/
+    width: 480px;
     margin: 16px auto;
   }
   
@@ -92,7 +92,7 @@ body {
     padding: 10px;
     border-radius: 4px;
     box-shadow: 0 10px 30px rgba(0,0,0,.4);
-    /*width: 520px;*/
+    width: 520px;
     margin: 16px auto;
   }
 
